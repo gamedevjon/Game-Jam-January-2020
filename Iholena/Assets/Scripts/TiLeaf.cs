@@ -18,7 +18,7 @@ public class TiLeaf : MonoBehaviour
    // Update is called once per frame
    void Update()
    {
-      float horizontalPos;
+      //float horizontalPos;
       float verticalPos = -4.5f;
       Vector3 newPosition;
 
